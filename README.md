@@ -9,3 +9,13 @@ Session-1 - Introduction to Machine Learning : <a href= "https://youtu.be/BGUnwC
 
 
 #### Complete ML playlist: <a href= "https://www.youtube.com/playlist?list=PLZoZvonWUILQ5NYE-vBPOsNbqANd-27LI">link</a>
+
+
+
+
+
+
+#### Mentor's Contact:
+
+ <a href="https://linktr.ee/atharvakhedkar" target="_blank">Atharva Khedkar</a> <br>
+ <a href="https://twitter.com/Adityabobde2" target="_blank">Aditya Bobde</a>
