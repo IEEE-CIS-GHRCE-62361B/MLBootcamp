@@ -2,7 +2,7 @@
 This repository contains all resources of the Machine Learning Bootcamp
 
 
-Session-1 - Introduction to Machine Learning : <a href= "https://youtu.be/BGUnwC9XFN4">link</a> 
+Session-1 - Introduction to Machine Learning : <a href= "https://youtu.be/BGUnwC9XFN4">link</a> <br>
 Session-2 - Getting Started with Python and Linear Algebra : <a href= "https://www.youtube.com/watch?v=fzyey75kbQQ">link</a> 
 
 
