@@ -3,8 +3,8 @@ This repository contains all resources of the Machine Learning Bootcamp
 
 
 Session-1 - Introduction to Machine Learning : <a href= "https://youtu.be/BGUnwC9XFN4">link</a> <br>
-Session-2 - Getting Started with Python and Linear Algebra : <a href= "https://www.youtube.com/watch?v=fzyey75kbQQ">link</a> 
-
+Session-2 - Getting Started with Python and Linear Algebra : <a href= "https://www.youtube.com/watch?v=fzyey75kbQQ">link</a> <br>
+Session-3 - Supervised Learning: Linear Regression : <a href= "https://www.youtube.com/watch?v=MrbbYLEET8s">link</a>
 
 
 
@@ -19,4 +19,4 @@ Session-2 - Getting Started with Python and Linear Algebra : <a href= "https://w
 #### Mentor's Contact:
 
  <a href="https://linktr.ee/atharvakhedkar" target="_blank">Atharva Khedkar</a> <br>
- <a href="https://twitter.com/Adityabobde2" target="_blank">Aditya Bobde</a>
+ <a href="https://linktr.ee/Adityabobde" target="_blank">Aditya Bobde</a>
