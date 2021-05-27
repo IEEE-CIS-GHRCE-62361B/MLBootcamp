@@ -7,7 +7,7 @@ Session-2 - Getting Started with Python and Linear Algebra : <a href= "https://w
 Session-3 - Supervised Learning- Linear Regression : <a href= "https://www.youtube.com/watch?v=MrbbYLEET8s">link</a> <br>
 Session-4 - Supervised Learning- Logistic Regression : <a href= "https://youtu.be/Sn39TShr7IU">link</a> <br>
 Session-5 - Supervised Learning- KNN  : <a href= "https://www.youtube.com/watch?v=DWg3X70t1gY">link</a> <br>
-Session-6 - Version Controlling using Git and Github  : <a href= "https://youtu.be/Sn39TShr7IU">link</a> <br>
+Session-6 - Version Controlling using Git and Github  : <a href= "https://youtu.be/ZANQH9cbB2o">link</a> <br>
 
 
 
